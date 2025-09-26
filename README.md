@@ -1,4 +1,4 @@
-# Hi there, I'm YDJ 👋
+# Hi there, I'm Yash Jadhav 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B88C3&center=true&vCenter=true&random=false&width=600&lines=Data+Engineer;Cloud+Architecture+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
