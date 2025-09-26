@@ -55,7 +55,7 @@ I'm passionate about building robust data pipelines and cloud-native solutions. 
   
 ### ♟️ Chess Analytics: Big Data Insights
   
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YDJ00&repo=chess-analytics&theme=tokyonight)](https://github.com/YDJ00/chess-analytics)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YDJ00&repo=pyspark-chess-analysis&theme=tokyonight)](https://github.com/YDJ00/pyspark-chess-analysis)
 
 </div>
 
@@ -138,7 +138,7 @@ I'm passionate about building robust data pipelines and cloud-native solutions. 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ydj00/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash918jadhav@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/YDJ00)
 
 </div>
 
